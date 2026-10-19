@@ -1,0 +1,16 @@
+{
+  "errors": [],
+  "pinch": {
+    "delta": 23.937418407171634,
+    "finite": true
+  },
+  "contextRecovery": true,
+  "hiddenFocus": true,
+  "responsivePreset": true,
+  "views": 4,
+  "weathers": 3,
+  "quality": true,
+  "audio": true,
+  "tour": true,
+  "downloadBytes": 803911
+}
